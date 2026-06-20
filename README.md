@@ -1,10 +1,12 @@
-# Computação-Quântica
-Códigos e relatório desenvolvidos na disciplina de Computação Quântica, incluindo circuitos básicos, algoritmos quânticos canônicos e exemplos variacionais em Qiskit, PennyLane e Google Colab.
 # Computação Quântica — Códigos, Notebooks e Relatório
 
 Este repositório reúne os códigos desenvolvidos ao longo da disciplina de Computação Quântica, organizados em notebooks executáveis no Google Colab e acompanhados pelo relatório final em PDF.
 
-O objetivo do repositório é apresentar de forma clara e reprodutível os principais circuitos e algoritmos estudados durante a disciplina, incluindo circuitos quânticos básicos, algoritmos quânticos canônicos e exemplos introdutórios de métodos variacionais.
+## Relatório
+
+O relatório final da disciplina está disponível no arquivo:
+
+[📄 Acessar relatório final](./Circuitos%20Quanticos.pdf)
 
 ## Conteúdo
 
@@ -14,11 +16,12 @@ O objetivo do repositório é apresentar de forma clara e reprodutível os princ
 - Algoritmo de Simon
 - Visualizações de circuitos e histogramas de medição
 
-## Relatório
+## Notebooks
 
-O relatório final da disciplina está disponível no arquivo:
-
-`Circuitos Quanticos.pdf`
+- [Circuito de Bell](./CircuitodeBell.ipynb)
+- [Algoritmo de Deutsch-Jozsa](./Deutsch_Jozsa_.ipynb)
+- [Algoritmo de Bernstein-Vazirani](./Bernstein–Vazirani.ipynb)
+- [Algoritmo de Simon](./Algoritmo_de_Simon.ipynb)
 
 ## Execução dos códigos
 
